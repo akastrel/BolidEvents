@@ -1,0 +1,14 @@
+{
+  "domain": "bolid_events",
+  "name": "Bolid Events",
+  "version": "1.0.2",
+  "codeowners": [],
+  "dependencies": [
+    "modbus",
+    "binary_sensor"
+  ],
+  "documentation": "https://bolid.ru/",
+  "integration_type": "service",
+  "iot_class": "local_polling",
+  "requirements": []
+}
